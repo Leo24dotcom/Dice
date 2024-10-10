@@ -41,7 +41,7 @@ void draw()
         text("Your luck is average :|",500,590);
       }
       else if(avg < 3.5){
-        text("Your luck is trash",500,590);
+        text("Your luck is quite bad",500,590);
       }
 }
 void mousePressed()
